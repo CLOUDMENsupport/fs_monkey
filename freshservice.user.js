@@ -12,4 +12,6 @@
     'use strict';
     $(".private-note").css("background-color","#ef5456");
     $(".private-note").css("color","white");
+    $(".private-note .author-mail-detail").css("color","white");
+    $(".private-note .username").css("color","white");
 })();
