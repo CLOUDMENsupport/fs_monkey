@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name FreshService CSS Customisations
 // @namespace https://cloudmen.com
-// @version 0.9
+// @version 0.99
 // @description  Adds some style customisations to FreshService
 // @match https://*.freshservice.com/*
 // @copyright 2021, cloudmen.com
